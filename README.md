@@ -42,7 +42,10 @@ javac -d out src/**/*.java
 Run the program:
 
 java -cp out main.Main
+
+
 🔁 Adjust the commands above according to the actual package structure of the project.
+
 
 Desafio-com-conta-bancaria/
 ├── .vscode/
